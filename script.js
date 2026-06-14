@@ -37,7 +37,7 @@ medium.addEventListener("click", () => {
     medium_level();
 })
 hard.addEventListener("click", () => {
-    easy_level();
+    hard_level();
 })
 poke.addEventListener("click", () => {
     score();
