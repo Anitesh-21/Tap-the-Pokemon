@@ -8,8 +8,6 @@
 
 body{
     font-family: 'Bangers', sans-serif;
-    line-height: 50px;
-    letter-spacing: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
