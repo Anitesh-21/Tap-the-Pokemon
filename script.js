@@ -10,12 +10,12 @@ function easy_level() {
 }
 
 function hard_level() {
-    poke.style.animationDuration = '15s';
+    poke.style.animationDuration = '12s';
     poke.className = 'mvm';
 }
 
 function medium_level() {
-    poke.style.animationDuration = '12s';
+    poke.style.animationDuration = '15s';
     poke.className = 'mvm';
 }
 
